@@ -2457,9 +2457,8 @@
 			}
 
 		.image.main {
-			display: block;
-			margin: 4rem 0;
-			width: 100%;
+
+			width: 30%
 		}
 
 			.image.main:first-child {
@@ -3645,6 +3644,10 @@
 			text-align: center;
 			width: 100%;
 			padding: 0;
+		}
+
+		.postimage {
+			text-align:center
 		}
 
 			#main > .posts > * {

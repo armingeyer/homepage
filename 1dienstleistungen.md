@@ -1,0 +1,51 @@
+---
+layout: page
+title: Dienstleistungen
+path: dienstleistungen
+---
+
+<h2>Meine Dienstleistungen für Sie</h2>
+<div class="row">
+<div class="6u 12u$(small)">
+
+<h3>Gartenpflege</h3>
+<ul>
+<li>Rasenschnitt</li>
+<li>Heckenschnitt</li>
+<li>Obstbaumschnitt Frühjahr/Sommer</li>
+<li>Gartenabfälle entsorgen</li>
+<li>Pflanzenrückschnitte</li>
+<li>sämtliche Herbstarbeiten</li>
+</ul>
+
+<h3>Winterdienst</h3>
+<ul>
+<li>Schnee räumen</li>
+<li>Streuen</li>
+<li>Obstbaumschnitt Frühjahr/Sommer</li>
+<li>Gartenabfälle entsorgen</li>
+<li>Pflanzenrückschnitte</li>
+<li>sämtliche Herbstarbeiten</li>
+</ul>
+
+</div>
+<div class="6u$ 12u$(small)">
+
+<h3>weitere Dienstleistungsangebote:</h3>
+<ul>
+<li>Grundentkernung</li>
+<li>Wohnanlagenpflege für Innen- und Aussenbereich</li>
+</ul>
+
+</div>
+</div>
+<h3>Finden Sie ihre gewünschte Dienstleistung nicht, oder sind sie sich nicht sicher? Scheuen Sie sich bitte nicht und fragen Sie einfach mal bei mir nach!</h3>
+<!-- Image -->
+
+<div class="box alt">
+<div class="row 50% uniform">
+<div class="4u"><span class="image fit"><img src="assets/images/P003.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="assets/images/P004.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="assets/images/P005.jpg" alt="" /></span></div>
+</div>
+</div>
