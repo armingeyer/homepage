@@ -4,7 +4,7 @@ subtitle: Garten und Hofpflege in Regenstauf und Umgebung
 email: stefan.riembauer@gmail.com
 description: Garten und Hofpflege in Regenstauf und Umgebung
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://armingeyerhp.s3-website.eu-central-1.amazonaws.com" # the base hostname & protocol for your site
+url: "https://testing.hirnkastl.info" # the base hostname & protocol for your site
 author: Armin Geyer
 street_address: Regendorfer Str 57
 city: Regenstauf
