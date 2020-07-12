@@ -5,12 +5,16 @@
 		<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
+	            {% unless page.url contains "/page" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+		    {% endunless %}
 	    	{% endif %}
 		    {% endfor %}
 		    {% for page in site.pages %}
 		    {% if page.layout != "home" %}
+	            {% unless page.url contains "/page" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		    {% endunless %}
 		    {% endif %}
 		    {% endfor %}
 		</ul>

@@ -3,7 +3,7 @@
 		<!-- Footer -->
 		<footer id="footer" action="https://formspree.io/{{site.email}}" method="POST">
 				<section>
-						<form method="post" action="https://formspree.io/{{site.email}}">
+						<form method="post" action="https://formspree.io/xzbjjwda">
 								<div class="field">
 									  <label for="name">Name</label>
 									  <input type="text" name="name" id="name" />
@@ -25,11 +25,11 @@
 						<section class="alt">
 								<h3>Addresse</h3>
 								<p>{{ site.street_address }}<br />
-								    {{ site.city }}, {{ site.state }} {{ site.zip_code }}</p>
+									{{ site.zip_code }} {{ site.city }} </p>
 						</section>
 						<section>
 								<h3>Telefon</h3>
-								<p><a href="#">{{ site.phone }}</a></p>
+								<p><a href="tel:+49{{ site.phone }}">{{ site.phone }}</a></p>
 						</section>
 						<section>
 								<h3>Email</h3>
