@@ -17,8 +17,8 @@
             {% include menu.html %}
 
                         {% if site.posts != null %}
-
-            				    <!-- Posts -->
+                        <!--
+            				    
             				    <section class="posts">
             	              {% for post in site.posts %}
             						    <article>
@@ -35,36 +35,32 @@
             								</ul>
             						</article>
             	          {% endfor %}
-            				</section>
-
+                    </section>
+                  -->
+                  <section class="posts">
+                    <!-- This loops through the paginated posts -->
+                    {% for post in paginator.posts %}
+                        <article>
+                            <header>
+                                <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                            <h2><a href="{{ post.url  | relative_url }}">{{ post.title }}</a></h2>
+                        </header>
+                        {% if post.image %}
+                        <a href="{{ post.url  | relative_url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
+                        {% endif %}
+                        <p>{{ post.excerpt }}</p>
+                        <ul class="actions">
+                            <li><a href="{{ post.url  | relative_url }}" class="button">Weiterlesen</a></li>
+                        </ul>
+                    </article>
+                         {% endfor %}
+                        </section>
 
                     <!-- Footer -->
                     <footer>
-            		        <div class="pagination">
-            				        <!--<a href="#" class="previous">Prev</a>-->
-            				        <a href="#" class="page active">1</a>
-            				        <a href="#" class="page">2</a>
-            				        <a href="#" class="page">3</a>
-            				        <span class="extra">&hellip;</span>
-            				        <a href="#" class="page">8</a>
-            				        <a href="#" class="page">9</a>
-            				        <a href="#" class="page">10</a>
-            				        <a href="#" class="next">Next</a>
-            		        </div>
-
-                        <!-- This loops through the paginated posts -->
-                        <!-- {% for post in paginator.posts %}
-                             <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-                             <p class="author">
-                             <span class="date">{{ post.date }}</span>
-                             </p>
-                             <div class="content">
-                             {{ post.content }}
-                             </div>
-                             {% endfor %} -->
 
                         <!-- Pagination links -->
-                        <!-- <div class="pagination">
+                        <div class="pagination">
                              {% if paginator.previous_page %}
                              <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
                              {% else %}
@@ -77,7 +73,6 @@
                              <span class="next ">Next</span>
                              {% endif %}
                              </div>
-                           -->
                     </footer>
 
             {% endif %}
