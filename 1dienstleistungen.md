@@ -2,7 +2,6 @@
 layout: page
 title: Dienstleistungen
 path: dienstleistungen
-permalink: dienstleistungen
 ---
 
 <h2>Meine Dienstleistungen für Sie</h2>
