@@ -3318,10 +3318,14 @@
 		-ms-user-select: none;
 		user-select: none;
 		height: 20rem;
-		padding-bottom: 8rem;
+		padding-bottom: 5rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
+	}
+	#header img {
+		width: 25%;
+		min-width: 220px
 	}
 
 		#header input, #header select, #header textarea {
@@ -3374,7 +3378,7 @@
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			line-height: 1;
-			padding: 1rem 1.75rem;
+			padding: 1rem 1.75rem ;
 			text-transform: uppercase;
 			visibility: visible;
 		}
@@ -3387,7 +3391,7 @@
 
 			#header {
 				height: 14rem;
-				padding-bottom: 4rem;
+				padding-bottom: 2rem;
 			}
 
 		}
@@ -3395,7 +3399,7 @@
 		@media screen and (max-width: 736px) {
 
 			#header {
-				padding-bottom: 3rem;
+				padding-bottom: 0.5rem;
 			}
 
 				#header .logo {
