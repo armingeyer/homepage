@@ -3331,8 +3331,9 @@
 		#header a {
 			color: #ffffff;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-style: none;
+			text-decoration: none;
 		}
-
 			#header a:hover {
 				border-bottom-color: transparent;
 				color: #79B51C !important;
@@ -3368,9 +3369,6 @@
 			-webkit-pointer-events: auto;
 			-ms-pointer-events: auto;
 			pointer-events: auto;
-			border-style: solid;
-			border-color: #ffffff;
-			border-width: 5px !important;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
 			font-weight: 900;
@@ -3380,7 +3378,6 @@
 			text-transform: uppercase;
 			visibility: visible;
 		}
-
 			#header .logo:hover {
 				border-color: #79B51C !important;
 				color: #79B51C !important;

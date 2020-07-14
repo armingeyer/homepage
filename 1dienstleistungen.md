@@ -44,8 +44,8 @@ path: dienstleistungen
 
 <div class="box alt">
 <div class="row 50% uniform">
-<div class="4u"><span class="image fit"><img src="assets/images/P003.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="assets/images/P004.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="assets/images/P005.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><a href="assets/images/P003.jpg" data-lightbox="gallery"><img src="assets/images/P003.jpg" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="assets/images/P004.jpg" data-lightbox="gallery"><img src="assets/images/P004.jpg" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="assets/images/P005.jpg" data-lightbox="gallery"><img src="assets/images/P005.jpg" alt="" /></a></span></div>
 </div>
 </div>
