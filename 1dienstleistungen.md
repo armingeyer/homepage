@@ -33,7 +33,6 @@ path: dienstleistungen
 
 <h3>weitere Dienstleistungsangebote:</h3>
 <ul>
-<li>Grundentkernung</li>
 <li>Wohnanlagenpflege für Innen- und Aussenbereich</li>
 </ul>
 
