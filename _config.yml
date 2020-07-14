@@ -1,7 +1,7 @@
 # site settings
 title: Armin Geyer
 subtitle: Garten und Hofpflege in Regenstauf und Umgebung
-email: stefan.riembauer@gmail.com
+email: info@garten-hofpflege.de
 description: Garten und Hofpflege in Regenstauf und Umgebung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://testing.hirnkastl.info" # the base hostname & protocol for your site
