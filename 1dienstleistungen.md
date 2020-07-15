@@ -22,10 +22,6 @@ path: dienstleistungen
 <ul>
 <li>Schnee räumen</li>
 <li>Streuen</li>
-<li>Obstbaumschnitt Frühjahr/Sommer</li>
-<li>Gartenabfälle entsorgen</li>
-<li>Pflanzenrückschnitte</li>
-<li>sämtliche Herbstarbeiten</li>
 </ul>
 
 </div>
