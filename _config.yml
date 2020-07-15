@@ -11,7 +11,7 @@ city: Regenstauf
 state:
 zip_code: 93128
 country: Deutschland
-phone: 09402 7816952
+phone: 09402 7816958
 pagination:
   enabled: true
   per_page: 4
