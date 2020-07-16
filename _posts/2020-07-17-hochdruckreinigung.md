@@ -11,4 +11,5 @@ postimages:
   - /assets/images/dampfstrahler5.jpeg
 ---
 
-Wir übernehmen neuerdings auch sämtliche Reinigungsarbeiten mit dem Hochdruckreiniger! Terrassen, gepflasterte Hofeinfahrten oder Hofeingänge, Schwimmingpools, Zierbrunnen und Zierfiguren, sowie auch das Reinigen von Holzzäunen mit anschließendem Streichen. 
+Wir übernehmen neuerdings auch sämtliche Reinigungsarbeiten mit dem Hochdruckreiniger! 
+Terrassen, gepflasterte Hofeinfahrten oder Hofeingänge, Schwimmingpools, Zierbrunnen und Zierfiguren, sowie auch das Reinigen von Holzzäunen mit anschließendem Streichen. 
