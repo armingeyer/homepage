@@ -30,6 +30,7 @@ path: dienstleistungen
 <h3>weitere Dienstleistungsangebote:</h3>
 <ul>
 <li>Wohnanlagenpflege für Innen- und Aussenbereich</li>
+<li>Hochdruckreinigung <b> - Neu!</b></li>
 </ul>
 
 </div>
