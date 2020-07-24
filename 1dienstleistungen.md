@@ -2,6 +2,8 @@
 layout: page
 title: Dienstleistungen
 path: dienstleistungen
+permalink: dienstleistungen
+description: Unsere Dienstleistungen | Winterdienst, Gartenpflege, Hofpflege und vieles mehr
 ---
 
 <h2>Meine Dienstleistungen für Sie</h2>

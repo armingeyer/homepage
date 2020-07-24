@@ -1,9 +1,10 @@
 # site settings
-title: Armin Geyer
-subtitle: Garten und Hofpflege in Regenstauf und Umgebung
+title: Armin Geyer - Garten und Hofpflege
+tagline: Garten und Hofpflege in Regensburg, Regenstauf und Umgebung
+subtitle: Garten und Hofpflege in Regensburg, Regenstauf und Umgebung
 email: info@garten-hofpflege.de
-description: Garten und Hofpflege in Regenstauf und Umgebung
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Gartenpflege und Hofpflege mit Winterdienst in Regensburg, Regenstauf und Umgebung. Dienstleistungen rund den Garten!
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.garten-hofpflege.de" # the base hostname & protocol for your site
 author: Armin Geyer
 street_address: Regendorfer Str 57
@@ -12,6 +13,7 @@ state:
 zip_code: 93128
 country: Deutschland
 phone: 09402 7816958
+lang: de_DE
 pagination:
   enabled: true
   per_page: 4
@@ -38,3 +40,4 @@ sass:
 
 plugins:
   - jekyll-paginate-v2
+  - jekyll-seo-tag
