@@ -3,7 +3,7 @@ layout: page
 title: Dienstleistungen
 path: dienstleistungen
 permalink: dienstleistungen
-description: Unsere Dienstleistungen | Winterdienst, Gartenpflege, Hofpflege und vieles mehr
+description: Wir bieten Winterdienst, Gartenpflege, Hofpflege und vieles mehr in Regenstauf, Regensburg, Schwandorf und Umgebung!
 ---
 
 <h2>Meine Dienstleistungen für Sie</h2>

@@ -1,9 +1,9 @@
 # site settings
 title: Armin Geyer - Garten und Hofpflege
-tagline: Garten und Hofpflege in Regensburg, Regenstauf und Umgebung
-subtitle: Garten und Hofpflege in Regensburg, Regenstauf und Umgebung
+tagline: Gartenpflege und Hofpflege in Regensburg, Regenstauf, Schwandorf und Umgebung
+subtitle: Gartenpflege und Hofpflege in Regensburg, Regenstauf, Schwandorf und Umgebung
 email: info@garten-hofpflege.de
-description: Gartenpflege und Hofpflege mit Winterdienst in Regensburg, Regenstauf und Umgebung. Dienstleistungen rund den Garten!
+description: Gartenpflege und Hofpflege mit Winterdienst in Regensburg, Regenstauf, Schwandorf und Umgebung. Dienstleistungen rund den Garten!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.garten-hofpflege.de" # the base hostname & protocol for your site
 author: Armin Geyer
