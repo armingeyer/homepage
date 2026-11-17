@@ -3,6 +3,7 @@
 		<!-- Footer -->
 		<footer id="footer" action="https://formspree.io/{{site.email}}" method="POST">
 				<section>
+						<p>Wenn Sie das Formular absenden, werden Ihre Angaben zur Bearbeitung Ihrer Anfrage an Formspree übermittelt. Weitere Informationen finden Sie in unserer <a href="{{ 'datenschutz' | relative_url }}">Datenschutzerklärung</a>.</p>
 						<form method="post" action="https://formspree.io/{{site.email}}">
 								<div class="field">
 									  <label for="name">Name</label>
@@ -40,7 +41,10 @@
 
 		<!-- Copyright -->
 		<div id="copyright">
-				<ul><li>&copy; {{ site.title }}</li></ul>
+				<ul>
+					<li>&copy; {{ site.title }}</li>
+					<li><a href="{{ 'datenschutz' | relative_url }}">Datenschutzerklärung</a></li>
+				</ul>
 		</div>
 
 		</div>
